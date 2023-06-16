@@ -1,0 +1,16 @@
+"""
+TODO:
+lexical scoping?
+comments
+fn,
+var,
+const,
+macro,
+let
+for
+cons
+macro
+do
+while
+
+"""
